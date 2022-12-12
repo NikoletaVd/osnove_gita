@@ -1,0 +1,65 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Maven RAR Plugin
+
+
+From: 'an unknown organization'
+  - javax.inject (http://code.google.com/p/atinject/) javax.inject:javax.inject:jar:1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - snappy (http://github.com/dain/snappy) org.iq80.snappy:snappy:jar:0.4
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - plexus-build-api (http://forge.sonatype.com/spice-parent/plexus-build-api/) org.sonatype.plexus:plexus-build-api:jar:0.0.7
+    License: Apache Public License 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - XZ for Java (https://tukaani.org/xz/java.html) org.tukaani:xz:jar:1.9
+    License: Public Domain 
+
+From: 'Codehaus' (http://www.codehaus.org/)
+  - Plexus Classworlds (http://plexus.codehaus.org/plexus-classworlds/) org.codehaus.plexus:plexus-classworlds:bundle:2.5.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Codehaus Plexus' (http://codehaus-plexus.github.io/)
+  - Plexus Interpolation API (http://codehaus-plexus.github.io/plexus-interpolation/) org.codehaus.plexus:plexus-interpolation:bundle:1.26
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Plexus IO Components (http://codehaus-plexus.github.io/plexus-io/) org.codehaus.plexus:plexus-io:jar:3.2.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Plexus Common Utilities (http://codehaus-plexus.github.io/plexus-utils/) org.codehaus.plexus:plexus-utils:jar:3.3.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Codehaus Plexus' (https://codehaus-plexus.github.io/)
+  - Plexus Archiver Component (https://codehaus-plexus.github.io/plexus-archiver/) org.codehaus.plexus:plexus-archiver:jar:4.2.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Plexus :: Component Annotations (https://codehaus-plexus.github.io/plexus-containers/plexus-component-annotations/) org.codehaus.plexus:plexus-component-annotations:jar:2.1.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'GlassFish Community' (https://glassfish.java.net)
+  - javax.annotation API (http://jcp.org/en/jsr/detail?id=250) javax.annotation:javax.annotation-api:jar:1.2
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html)
+
+From: 'JBoss by Red Hat, Inc.' (http://jboss.org)
+  - CDI APIs (http://cdi-spec.org) javax.enterprise:cdi-api:jar:1.2
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons IO (http://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.6
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (https://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.20
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Maven Archiver (https://maven.apache.org/shared/maven-archiver/) org.apache.maven:maven-archiver:jar:3.5.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Maven Filtering (https://maven.apache.org/shared/maven-filtering/) org.apache.maven.shared:maven-filtering:jar:3.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Maven Shared Utils (https://maven.apache.org/shared/maven-shared-utils/) org.apache.maven.shared:maven-shared-utils:jar:3.3.3
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Eclipse Foundation' (http://www.eclipse.org/)
+  - org.eclipse.sisu.inject (http://www.eclipse.org/sisu/org.eclipse.sisu.inject/) org.eclipse.sisu:org.eclipse.sisu.inject:eclipse-plugin:0.3.5
+    License: Eclipse Public License, Version 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - org.eclipse.sisu.plexus (http://www.eclipse.org/sisu/org.eclipse.sisu.plexus/) org.eclipse.sisu:org.eclipse.sisu.plexus:eclipse-plugin:0.3.5
+    License: Eclipse Public License, Version 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+
+
+
+
